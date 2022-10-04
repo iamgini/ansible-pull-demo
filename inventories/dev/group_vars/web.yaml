@@ -1,0 +1,10 @@
+stage: active
+package_list:
+  - httpd
+  - firewalld
+  - git
+
+firewall_ports:
+  - 80
+  - 443
+  - 6443
