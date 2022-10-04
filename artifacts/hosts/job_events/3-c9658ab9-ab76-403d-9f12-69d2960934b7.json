@@ -1,0 +1,1 @@
+{"uuid": "c9658ab9-ab76-403d-9f12-69d2960934b7", "counter": 3, "stdout": "", "start_line": 2, "end_line": 2, "runner_ident": "hosts", "event": "playbook_on_start", "pid": 58871, "created": "2022-10-04T15:27:51.687032", "event_data": {"playbook": "playbook.yml", "playbook_uuid": "c9658ab9-ab76-403d-9f12-69d2960934b7", "uuid": "c9658ab9-ab76-403d-9f12-69d2960934b7"}}

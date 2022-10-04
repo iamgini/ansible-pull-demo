@@ -1,7 +1,0 @@
----
-- name: Local Demo Ansible Pull Playbook
-  hosts: localhost
-  tasks:
-    - name: Hello message
-      debug: 
-        msg: "Hello from Ansible"
