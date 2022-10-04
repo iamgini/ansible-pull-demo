@@ -1,0 +1,1 @@
+{"uuid": "cada3417-6764-4155-aa78-d1a0058ad1c0", "counter": 3, "stdout": "", "start_line": 2, "end_line": 2, "runner_ident": "hosts", "event": "playbook_on_start", "pid": 60079, "created": "2022-10-04T15:28:48.683996", "event_data": {"playbook": "playbook.yml", "playbook_uuid": "cada3417-6764-4155-aa78-d1a0058ad1c0", "uuid": "cada3417-6764-4155-aa78-d1a0058ad1c0"}}
