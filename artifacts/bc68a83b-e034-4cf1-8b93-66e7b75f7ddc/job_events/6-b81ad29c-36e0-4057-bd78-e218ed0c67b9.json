@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "b81ad29c-36e0-4057-bd78-e218ed0c67b9", "counter": 6, "stdout": "\u001b[0;34m  executable location = /home/gmadappa/pyvirt/ansible211/bin/ansible-playbook\u001b[0m", "start_line": 5, "end_line": 6, "runner_ident": "bc68a83b-e034-4cf1-8b93-66e7b75f7ddc", "created": "2022-10-04T15:54:28.769120"}

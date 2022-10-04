@@ -1,0 +1,3 @@
+# file: stg/group_vars/web.yaml
+web_server_port: 80
+python_version: 3.8

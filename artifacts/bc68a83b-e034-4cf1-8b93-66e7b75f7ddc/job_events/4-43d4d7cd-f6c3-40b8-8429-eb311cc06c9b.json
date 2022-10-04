@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "43d4d7cd-f6c3-40b8-8429-eb311cc06c9b", "counter": 4, "stdout": "\u001b[0;34m  ansible python module location = /home/gmadappa/pyvirt/ansible211/lib64/python3.10/site-packages/ansible\u001b[0m", "start_line": 3, "end_line": 4, "runner_ident": "bc68a83b-e034-4cf1-8b93-66e7b75f7ddc", "created": "2022-10-04T15:54:28.768690"}

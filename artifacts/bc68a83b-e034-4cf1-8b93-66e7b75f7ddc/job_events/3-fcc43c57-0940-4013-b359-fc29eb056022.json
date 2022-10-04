@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "fcc43c57-0940-4013-b359-fc29eb056022", "counter": 3, "stdout": "\u001b[0;34m  configured module search path = ['/home/gmadappa/.ansible/plugins/modules', '/usr/share/ansible/plugins/modules']\u001b[0m", "start_line": 2, "end_line": 3, "runner_ident": "bc68a83b-e034-4cf1-8b93-66e7b75f7ddc", "created": "2022-10-04T15:54:28.768536"}
