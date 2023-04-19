@@ -3,5 +3,6 @@
   hosts: localhost
   tasks:
     - name: Hello message
-      debug: 
+      ansible.builtin.debug:
         msg: "Hello from Ansible - {{ ansible_hostname }}"
+    
